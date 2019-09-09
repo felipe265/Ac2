@@ -1,2 +1,5 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+def soma(a,b)
+a = 0
+b = 0
+s = a + b 
+print (s)
